@@ -1,0 +1,10 @@
+tort
+12.00
+woda
+112.2
+ryz
+18.65
+salami
+15.98
+jogurt
+21.79

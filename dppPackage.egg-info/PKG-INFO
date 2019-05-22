@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: dppPackage
+Version: 0.1
+Summary: My Lib
+Home-page: https://github.com/HubertWnukiewicz/PYTHON_LIB
+Author: Hubert Wnukiewicz
+Author-email: 234967@student.pwr.edu.pl
+License: MIT
+Description: Projekt na 9 laboratoria z dobrych praktyk programowania.
+Platform: UNKNOWN

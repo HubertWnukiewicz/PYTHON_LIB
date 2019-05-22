@@ -1,0 +1,17 @@
+README.txt
+setup.py
+MyCompany/Event.py
+MyCompany/Person.py
+MyCompany/Product.py
+MyCompany/PurchaseList.py
+MyCompany/Status.py
+MyCompany/__init__.py
+MyCompany/main.py
+Testowa/Test1.py
+Testowa/Test2.py
+Testowa/__init__.py
+dppPackage.egg-info/PKG-INFO
+dppPackage.egg-info/SOURCES.txt
+dppPackage.egg-info/dependency_links.txt
+dppPackage.egg-info/requires.txt
+dppPackage.egg-info/top_level.txt

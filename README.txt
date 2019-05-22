@@ -1,0 +1,1 @@
+Projekt na 9 laboratoria z dobrych praktyk programowania.
